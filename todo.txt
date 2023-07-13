@@ -1,0 +1,13 @@
+OnBoardingPage :
+Change the image absolute and get it on top of background (needs to see feets on whiteContainer)
+Check if there is anything that can be done more smoothly / cleaner
+
+HomeScreen :
+Add the Device Name to the HomeHeader components
+Create all the components below
+
+// COMPONENTS STRUCTURE :
+// 2. Name of the Device => check this : react-native-device-info
+// 3. Healthy Food Card with Calories of the day => to link with Sante App ? (see how we can get that if we have time)
+// 4. Favorite Chicken Cards
+// 5. Favorite Pizza Cards
